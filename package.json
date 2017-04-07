@@ -1,0 +1,15 @@
+{
+  "name": "Test tree",
+  "title": "Test task",
+  "author": "Mikhail Pavlov",
+  "url": "https://github.com/Winni-/TestTree",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Winni-/TestTree.git"
+  },
+  "devDependencies": {    
+    "browser-sync": "^2.18.8"
+  }
+}
